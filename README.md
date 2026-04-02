@@ -2,7 +2,7 @@
 
 * Fares Hazem
 * Hazem Aymen
-* Huessein Mohamed
+* Hussein Mohamed
 * Ahmed Ashraf
 * Hazem Mohamed
 
